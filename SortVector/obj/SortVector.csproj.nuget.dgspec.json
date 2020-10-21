@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tommaso.Brandinelli\\Documents\\Clone\\SortVector\\SortVector\\SortVector.csproj": {}
+    "C:\\Users\\Tommaso.Brandinelli\\Documents\\SortVector\\SortVector\\SortVector.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tommaso.Brandinelli\\Documents\\Clone\\SortVector\\SortVector\\SortVector.csproj": {
+    "C:\\Users\\Tommaso.Brandinelli\\Documents\\SortVector\\SortVector\\SortVector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tommaso.Brandinelli\\Documents\\Clone\\SortVector\\SortVector\\SortVector.csproj",
+        "projectUniqueName": "C:\\Users\\Tommaso.Brandinelli\\Documents\\SortVector\\SortVector\\SortVector.csproj",
         "projectName": "SortVector",
-        "projectPath": "C:\\Users\\Tommaso.Brandinelli\\Documents\\Clone\\SortVector\\SortVector\\SortVector.csproj",
+        "projectPath": "C:\\Users\\Tommaso.Brandinelli\\Documents\\SortVector\\SortVector\\SortVector.csproj",
         "packagesPath": "C:\\Users\\Tommaso.Brandinelli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tommaso.Brandinelli\\Documents\\Clone\\SortVector\\SortVector\\obj\\",
+        "outputPath": "C:\\Users\\Tommaso.Brandinelli\\Documents\\SortVector\\SortVector\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -18,6 +18,9 @@ namespace SortVector
             for (int i = 0; i < vs.Length; i++)
                 Console.WriteLine(vs[i]);
 
+            Console.WriteLine();
+            Console.WriteLine("massimo: " + Massimo(vs));
+
             Console.ReadKey();
 
             
@@ -37,6 +40,17 @@ namespace SortVector
                     }
                 }
             }
+
+        }
+
+
+
+        private static int Massimo(int[] vs)
+        {
+            int massimo = vs[vs.Length-1];
+            return massimo;
+
+
 
         }
 
