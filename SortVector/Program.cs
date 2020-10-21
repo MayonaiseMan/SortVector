@@ -18,6 +18,9 @@ namespace SortVector
             for (int i = 0; i < vs.Length; i++)
                 Console.WriteLine(vs[i]);
 
+            int minimo =Minimo(vs);
+            Console.WriteLine("il valore minimo è: " + minimo);
+
             Console.ReadKey();
 
             
@@ -37,6 +40,14 @@ namespace SortVector
                     }
                 }
             }
+
+        }
+
+        static int Minimo(int[] vs)
+        {
+            int i = 0;
+            
+            return vs[i];
 
         }
 

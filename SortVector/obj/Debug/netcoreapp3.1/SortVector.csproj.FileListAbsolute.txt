@@ -11,3 +11,16 @@ C:\Users\Tommaso.Brandinelli\Documents\SortVector\SortVector\obj\Debug\netcoreap
 C:\Users\Tommaso.Brandinelli\Documents\SortVector\SortVector\obj\Debug\netcoreapp3.1\SortVector.dll
 C:\Users\Tommaso.Brandinelli\Documents\SortVector\SortVector\obj\Debug\netcoreapp3.1\SortVector.pdb
 C:\Users\Tommaso.Brandinelli\Documents\SortVector\SortVector\obj\Debug\netcoreapp3.1\SortVector.genruntimeconfig.cache
+C:\Users\isaia.caprelli\Documents\SortVector\SortVector\bin\Debug\netcoreapp3.1\SortVector.exe
+C:\Users\isaia.caprelli\Documents\SortVector\SortVector\bin\Debug\netcoreapp3.1\SortVector.deps.json
+C:\Users\isaia.caprelli\Documents\SortVector\SortVector\bin\Debug\netcoreapp3.1\SortVector.runtimeconfig.json
+C:\Users\isaia.caprelli\Documents\SortVector\SortVector\bin\Debug\netcoreapp3.1\SortVector.runtimeconfig.dev.json
+C:\Users\isaia.caprelli\Documents\SortVector\SortVector\bin\Debug\netcoreapp3.1\SortVector.dll
+C:\Users\isaia.caprelli\Documents\SortVector\SortVector\bin\Debug\netcoreapp3.1\SortVector.pdb
+C:\Users\isaia.caprelli\Documents\SortVector\SortVector\obj\Debug\netcoreapp3.1\SortVector.csprojAssemblyReference.cache
+C:\Users\isaia.caprelli\Documents\SortVector\SortVector\obj\Debug\netcoreapp3.1\SortVector.AssemblyInfoInputs.cache
+C:\Users\isaia.caprelli\Documents\SortVector\SortVector\obj\Debug\netcoreapp3.1\SortVector.AssemblyInfo.cs
+C:\Users\isaia.caprelli\Documents\SortVector\SortVector\obj\Debug\netcoreapp3.1\SortVector.csproj.CoreCompileInputs.cache
+C:\Users\isaia.caprelli\Documents\SortVector\SortVector\obj\Debug\netcoreapp3.1\SortVector.dll
+C:\Users\isaia.caprelli\Documents\SortVector\SortVector\obj\Debug\netcoreapp3.1\SortVector.pdb
+C:\Users\isaia.caprelli\Documents\SortVector\SortVector\obj\Debug\netcoreapp3.1\SortVector.genruntimeconfig.cache

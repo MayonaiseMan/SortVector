@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Tommaso.Brandinelli\\.nuget\\packages\\": {},
+    "C:\\Users\\isaia.caprelli\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tommaso.Brandinelli\\Documents\\Clone\\SortVector\\SortVector\\SortVector.csproj",
+      "projectUniqueName": "C:\\Users\\isaia.caprelli\\Documents\\SortVector\\SortVector\\SortVector.csproj",
       "projectName": "SortVector",
-      "projectPath": "C:\\Users\\Tommaso.Brandinelli\\Documents\\Clone\\SortVector\\SortVector\\SortVector.csproj",
-      "packagesPath": "C:\\Users\\Tommaso.Brandinelli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tommaso.Brandinelli\\Documents\\Clone\\SortVector\\SortVector\\obj\\",
+      "projectPath": "C:\\Users\\isaia.caprelli\\Documents\\SortVector\\SortVector\\SortVector.csproj",
+      "packagesPath": "C:\\Users\\isaia.caprelli\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\isaia.caprelli\\Documents\\SortVector\\SortVector\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Tommaso.Brandinelli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\isaia.caprelli\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
